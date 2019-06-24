@@ -1,0 +1,6 @@
+build/
+.gradle/
+.idea/
+V0idsSmartBackpacksSync.iml
+V0idsSmartBackpacksSync.ipr
+V0idsSmartBackpacksSync.iws

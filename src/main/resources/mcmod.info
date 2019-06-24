@@ -1,0 +1,12 @@
+[
+    {
+        "modid": "V0idsSmartBackpacksSync",
+        "name": "V0idsSmartBackpacksSync",
+        "description": "An addon for InvSync to synchronize the player's equipped V0id's Smart Backpacks.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/bluelightning32/V0idsSmartBackpacksSync",
+        "authorList": ["bluelightning32"],
+        "dependencies": ["v0idssmartbackpacks", "invsync"]
+    }
+]
